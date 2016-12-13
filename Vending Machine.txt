@@ -1,0 +1,12 @@
+This is a relatively simple vending machine project.
+
+It has multiple screens and allows the user to see a list of options, add money, purchase an item, and receive change.  
+
+As is it takes only whole number amounts of dollars, and returns change in quarters, dimes, and nickels.  
+
+It saves a log of each transaction out to a file, and can also print a listing of everything that has been bought since it was turned on.
+There is also a command to refill the machine's stock and change.
+
+All major commands are explained onscreen in the menus.  Listing of purchasesand refilling the machine are done in a hidden menu by entering 0 on the main menu.
+
+Entering -2 on the main menu will end the program.
